@@ -1,4 +1,5 @@
 Decide which business to order from.
 Decide which pizza to order. 
-
+Pick up the pizza or have it delivered
+Repeat process 
 //done
